@@ -4,7 +4,7 @@ The project reimagines a tutorial-based layout and transforms it into a creative
 Instead of traditional informational content, the site uses selected lyrics from Alcohol-Free as textual elements, blending music, motion, and front-end experimentation.
 
 ## Live Demo
-
+https://twice-gsap.vercel.app
 
 ## Project Overview
 This website was originally developed as a practice project following a GSAP + React tutorial.
@@ -29,3 +29,4 @@ While the base structure originated from a learning resource, all content decisi
 ## Notes
 This project is not intended for commercial use.
 The repository showcases learning progress, animation experimentation, and creative adaptation.
+
